@@ -45,10 +45,6 @@ This project is a simple and interactive **Rock Paper Scissors** game created us
 
 Contributions are welcome! If you have suggestions or improvements, feel free to **fork** the repository and submit a **pull request**. Please ensure your code aligns with the project's coding standards.
 
-## **License**
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
 ## **Contact**
 
 For any questions or suggestions, feel free to reach out:
